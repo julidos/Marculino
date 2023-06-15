@@ -8,3 +8,7 @@ function desvia(t) {
 function geraPosicao(min, max) {
     return Math.random() * (max - min) + min + "%";
 }
+
+function alerta() {
+    alert("Comerei seu cuzinho.")
+}
